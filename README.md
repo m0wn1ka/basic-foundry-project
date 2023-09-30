@@ -1,5 +1,5 @@
 ## Foundry
-#for more info do visit https://m0wn1ka.github.io/m0wn1ka/
+#for more info do visit https://m0wn1ka.github.io
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
@@ -9,9 +9,7 @@ Foundry consists of:
 -   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
 -   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 
-## Documentation
 
-https://book.getfoundry.sh/
 
 ## Usage
 
